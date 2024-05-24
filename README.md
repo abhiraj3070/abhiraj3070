@@ -1,5 +1,5 @@
 
-![Software Developer](https://pbs.twimg.com/profile_banners/1431280176646615041/1716463584/1080x360)
+![github](https://github.com/abhiraj3070/abhiraj3070/assets/104653715/317ea2d7-814f-4c86-9301-717cf75afcd9)
 
 # Hi there 👋, my name is Abhi Raj
 ## Software Developer
