@@ -1,5 +1,5 @@
 
-![github](https://github.com/abhiraj3070/abhiraj3070/assets/104653715/317ea2d7-814f-4c86-9301-717cf75afcd9)
+![github](https://github.com/abhiraj3070/abhiraj3070/assets/104653715/b4f31934-91da-44cd-bdfd-252cdebe4d99)
 
 # Hi there 👋, my name is Abhi Raj
 ## Software Developer
