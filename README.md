@@ -4,6 +4,8 @@
 # Hi there 👋, my name is Abhi Raj
 ## Software Developer
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="1saptarshi" /> </p>
+
 I am a prefinal year Undergraduate student of Computer Science and Engineering. I have an avid interest in competitive Programming and Web Development.
 
 Skills: REACT / JS / HTML / CSS / C / C++
