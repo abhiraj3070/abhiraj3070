@@ -11,7 +11,7 @@ I am a prefinal year Undergraduate student of Computer Science and Engineering. 
 Skills: REACT / JS / HTML / CSS / C / C++
 
 - 🔭 I’m currently working on Full Stack Web Development 
-- 🌱 I’m currently learning React / SprintBoot 
+- 🌱 I’m currently learning React / SpringBoot 
 - 👯 I’m looking to collaborate on GitHub 
 
 
