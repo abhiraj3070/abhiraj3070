@@ -8,7 +8,7 @@
 
 I am a prefinal year Undergraduate student of Computer Science and Engineering. I have an avid interest in competitive Programming and Web Development.
 
-Skills: REACT / JS / HTML / CSS / C / C++
+Skills: C / C++ / JAVA / HTML / CSS / JS / REACT
 
 - 🔭 I’m currently working on Full Stack Web Development 
 - 🌱 I’m currently learning React / SpringBoot 
